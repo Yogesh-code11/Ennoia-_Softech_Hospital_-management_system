@@ -1037,6 +1037,7 @@ section,
 .hero .hero-content .trust-badges .badge-item {
   display: flex;
   align-items: center;
+  padding-top:2rem;
   gap: 0.5rem;
   background: color-mix(in srgb, var(--accent-color), transparent 90%);
   border-radius: 50px;
