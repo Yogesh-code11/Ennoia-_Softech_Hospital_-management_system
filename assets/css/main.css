@@ -1038,7 +1038,6 @@ section,
   display: flex;
   align-items: center;
   gap: 0.5rem;
-  padding: 0.5rem 1rem;
   background: color-mix(in srgb, var(--accent-color), transparent 90%);
   border-radius: 50px;
   color: var(--accent-color);
