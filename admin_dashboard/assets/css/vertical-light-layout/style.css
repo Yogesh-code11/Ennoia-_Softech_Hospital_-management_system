@@ -6987,6 +6987,13 @@ textarea.is-invalid.tt-hint, .select2-container--default .select2-selection--sin
   -ms-flex-pack: justify;
   justify-content: space-between;
 }
+.navbar .navbar-brand-wrapper .navbar-brand img.logo-dark,
+.navbar .navbar-brand-wrapper .navbar-brand img.logo-light {
+  width: 120px !important;
+  height: 65px !important;
+  object-fit: contain;
+  border-radius: 8px;
+}
 .navbar-brand {
   padding-top: var(--bs-navbar-brand-padding-y);
   padding-bottom: var(--bs-navbar-brand-padding-y);
