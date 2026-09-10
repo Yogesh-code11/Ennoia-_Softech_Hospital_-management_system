@@ -1029,6 +1029,7 @@ section,
 }
 
 .hero .hero-content .trust-badges {
+  margin-top:1rem;
   display: flex;
   gap: 1.5rem;
   flex-wrap: wrap;
